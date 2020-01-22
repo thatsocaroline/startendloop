@@ -1,0 +1,11 @@
+body{
+  background-color:lightblue;
+}
+
+function myLoop(){
+var end=document.getElementById("end").value;
+ 
+for(var 1=0; i <= 19; i++)
+{
+  document.write('<p>'+ i);
+}
